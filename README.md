@@ -1,2 +1,2 @@
-# inflammatory-biomarkers-analysis
+# Analysis of Inflammatory Biomarkers
 Used logistic regression models, along with associated causal diagrams (DAGs), to infer the relationship between two inflammatory biomarkers and cardiovascular death. The biomarkers (C-reactive protein and fibrinogen) were measured as part of a larger observational study on the elderly. The logistic models were fit based on presupposed biological causality, to control for potential confounding and mediating variables.

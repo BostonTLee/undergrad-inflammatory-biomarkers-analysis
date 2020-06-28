@@ -14,7 +14,7 @@ and mediating variables.
 The file `inflamm.txt` contains the data for the analysis, in tab-separated
 format. 
 
-The file inflamm_biomarker_analysis.Rmd contains the actual analysis. This
+The file `inflamm_biomarker_analysis.Rmd` contains the actual analysis. This
 project was intended as a paper or report, and is written to summarize and
 display the data, before performing a formal analysis.
 
